@@ -23,6 +23,7 @@ Ocorreu do dia 16 ao dia 20 de Janeiro de 2023 e teve como intuito mostrar na pr
 - Expo
 - Tailwind CSS
 - React Native
+- Prisma
 
 ## Instalação
 
