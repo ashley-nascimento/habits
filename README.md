@@ -1,11 +1,15 @@
 <p align="center">
-  <img src="./mobile/src/assets/logo.svg" alt="Logo" width="300"/>
+  <img src="./web/src/assets/logo.svg" alt="Logo" width="300"/>
 </p>
 <h3 align="center">
 Você no controle da sua rotina!
 </h3>
-
 <br><br>
+<p align="center">
+  <img src="./web/public/Cover.png" alt="Cover" />
+</p>
+
+
 <br>
 
 ## Sobre
